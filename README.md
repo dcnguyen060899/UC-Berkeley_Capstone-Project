@@ -174,8 +174,6 @@ The following visualizations support the findings and recommendations:
 3. **Cluster Analysis Plots**: Highlight distinct patient groups based on LOS, Ward Type, and visitors.
 4. **Policy Simulation Charts**: Show the potential impact of visitor management on reducing LOS.
 
-Thank you for your attention. I am available for any questions or further discussions on the findings and recommendations.
-
 ---
 **Data Scientist**
 [Duy Nguyen]
