@@ -88,4 +88,5 @@ Thank you for your attention. I am available for any questions or further discus
 
 ---
 **Data Scientist**
-[Duy Nguyen]
+
+Duy Nguyen
